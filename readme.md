@@ -1,3 +1,8 @@
-This is the official repo for the [Chris Courses Online Multiplayer Game Tutorial](https://www.youtube.com/watch?v=Wcvqnx14cZA) available on YouTube.
+✔️ Enjoy playing the game with your friends.
+✔️ The game is only for desktops:
+✔️ Game URL : https://multiplayer-game-main.onrender.com/
 
-You can view each episode's progress by selecting this repo's commits individually.
+
+controls :
+
+🤺 use W A S D as  up , down , right , left  for movement and use mouse click for fire and kill other players.
